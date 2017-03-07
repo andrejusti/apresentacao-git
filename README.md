@@ -1,2 +1,2 @@
 # apresentacao-git
-Apresentação GIT
+Apresentação GIT: https://pt.slideshare.net/AndrJusti/git-bsico-72882356
